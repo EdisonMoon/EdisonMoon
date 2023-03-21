@@ -1,9 +1,9 @@
 ### 👋 Hi 
 
-- 💁🏻‍♂️ I'm Xu Yiming from China, You can also call me kevin.xu
+- 💁🏻‍♂️ I'm Edison
 - 👨🏻‍💻 A back-end development engineer and also interested in the front-end
-- 📝 I regulary write articles on my [blog](https://www.sulvblog.cn)
-- 📞 You can contact me through wechat:[xyming1998](https://github.com/xyming108)、phone:[18365426759](https://github.com/xyming108)
+- 📝 I regulary write articles on my [blog](https://www.themostmoon.today)
+- 📞 You can contact me through email:[mickeyjosezmj@gmail.com](https://github.com/edisonmoon)
 
 
 ### 👨🏻‍💻 Skills
@@ -28,10 +28,10 @@
 
 ### 🌟 GitHub Stats
 <div>
-  <a href="https://github.com/xyming108">
-    <img align=center src="https://github-readme-stats.vercel.app/api?username=xyming108&show_icons=true&count_private=true&include_all_commits=true&hide_title=false"/>
+  <a href="https://github.com/edisonmoon">
+    <img align=center src="https://github-readme-stats.vercel.app/api?username=edisonmoon&show_icons=true&count_private=true&include_all_commits=true&hide_title=false"/>
   </a>
-  <a href="https://github.com/xyming108">
-    <img align=center src="https://github-readme-stats.vercel.app/api/top-langs/?username=xyming108&layout=compact&hide_title=false&card_width=445" />
+  <a href="https://github.com/edisonmoon">
+    <img align=center src="https://github-readme-stats.vercel.app/api/top-langs/?username=edisonmoon&layout=compact&hide_title=false&card_width=445" />
   </a>
 </div>
